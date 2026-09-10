@@ -1,1 +1,1 @@
-Hello ,edu
+print("Hello ,edu")
