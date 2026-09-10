@@ -1,1 +1,2 @@
-string yeah
+def x(y):
+    return y + y * 2
